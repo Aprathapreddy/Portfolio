@@ -1,0 +1,38 @@
+
+body {
+    background-image: url(good.jpg);
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+
+a {
+    color: pink;
+    text-decoration: whitesmoke;
+    margin: 0 10px;
+}
+
+img {
+    height: 50px;
+    float: left;
+    margin-right: 100px;
+}
+
+
+h3 font {
+    font-size: 40px;
+    color: rgb(48, 48, 99);
+}
+
+
+marquee {
+    background-color: violet;
+    text-align: center;
+    font-size: 24px;
+}
